@@ -25,6 +25,12 @@ Title: Non-COVID Hospital Bed Utilization Monitoring Using Social Determinants o
 
 [Repo - in progress](https://github.com/lemieuxjm/predictive-modeling)
 
+[Analytic Plan](https://github.com/lemieuxjm/predictive-modeling/blob/main/reports/01%20analytic%20plan/DSE6111_%20AnalyticPlan_JMLemieux.pdf)
+
+[Preliminary Results Report](https://github.com/lemieuxjm/predictive-modeling/blob/main/reports/02%20preliminary%20results/DSE6111_%20PreliminaryResults_JMLemieux.pdf)
+
+[Final Report](https://github.com/lemieuxjm/predictive-modeling/blob/main/reports/03%20final%20report%20and%20appendices/DSE6111_%20FinalPresentation_JMLemieux.pdf)
+
 ### 👉 Data Visualization project
 
 [Repo - in progress](https://github.com/lemieuxjm/data-visualization)
