@@ -9,6 +9,8 @@ Title: Non-COVID Hospital Bed Utilization Monitoring Using Social Determinants o
 
 [Report](https://github.com/lemieuxjm/bed-utilization-sdoh-capstone/tree/main/final_delivery/reports/Final_Report.pdf)
 
+[Presentation Deck](https://github.com/lemieuxjm/bed-utilization-sdoh-capstone/blob/main/final_delivery/deck/Hospital_Bed_Utilization_TeamIota.pptx)
+
 ### 👉 Data Visualization project
 
 [Repo - in progress](https://github.com/lemieuxjm/data-visualization)
